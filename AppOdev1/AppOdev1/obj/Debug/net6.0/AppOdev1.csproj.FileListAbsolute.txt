@@ -1,0 +1,17 @@
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\bin\Debug\net6.0\AppOdev1.exe
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\bin\Debug\net6.0\AppOdev1.deps.json
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\bin\Debug\net6.0\AppOdev1.runtimeconfig.json
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\bin\Debug\net6.0\AppOdev1.dll
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\bin\Debug\net6.0\AppOdev1.pdb
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.csproj.AssemblyReference.cache
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.AssemblyInfoInputs.cache
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.AssemblyInfo.cs
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.csproj.CoreCompileInputs.cache
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.csproj.CopyComplete
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.dll
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\refint\AppOdev1.dll
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.pdb
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\AppOdev1.genruntimeconfig.cache
+C:\Users\balci\OneDrive\Masaüstü\AppOdev1\AppOdev1\obj\Debug\net6.0\ref\AppOdev1.dll
